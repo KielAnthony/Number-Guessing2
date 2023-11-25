@@ -103,3 +103,10 @@ button {
 button:hover {
     background-color: #45a049; /* Slightly darker green on hover for a cool effect! */
 }
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+  }
